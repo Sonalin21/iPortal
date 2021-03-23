@@ -1,0 +1,42 @@
+.uploadBtn{
+    background-color: #06366a;
+    color: white;
+    border-radius: 13px;
+    padding: 3px 15px;
+    margin: 2% 0% 2% 1%;
+    border: none;
+    display: block !important;
+    margin-left: auto;
+}
+
+.linkText {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 500;
+}
+.cardMargin{
+    margin: 2% 0%;
+}
+.logoUser{
+    font-size: 31px;
+    margin: 2% 1%;
+}
+.logoUser1{
+    font-size: 31px;
+    margin: 2% 0% 2% 1%;
+}
+.nav-tabs {
+    border-bottom: 1px solid #dee2e6;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.heading1{
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: 1px solid #ddd;
+    padding: 0% 0% 1% 0%;
+}
+.glyphicon { margin-right:10px; }
+.panel-body { padding:0px; }
+.panel-body table tr td { padding-left: 15px }
+.panel-body .table {margin-bottom: 0px; }

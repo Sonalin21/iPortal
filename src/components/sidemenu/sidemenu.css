@@ -1,0 +1,28 @@
+.logock{
+    color: blue;
+    font-size: 25px;
+    font-style: italic;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 4%;
+}
+.menu1{
+    color: grey;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 20% 0% 5%;
+}
+ .menu1:active{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.sidemenu{
+    padding:2% 8%;
+}
+.logoUser{
+    font-size: 31px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
